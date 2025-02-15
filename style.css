@@ -111,3 +111,32 @@ span{
     font-size: 14px;
     font-weight: 700;
 }
+/**box7 */
+.nav-panel
+{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-panel-second{
+    width:80%;
+}
+.nav-panel p{
+    display: inline;
+    margin: 10px;
+    font-size: 0.9rem;
+}
+.nav-panel-third{
+    font-weight: 700;
+    font-size:1rem;
+}
+/**hero-sectioin */
+.hero-section{
+    background-image: url("./assets/hero_image.jpg");
+    background-size: cover;
+    height: 600px;
+    
+}
